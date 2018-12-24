@@ -2,7 +2,7 @@
 
 An case study application about detecting faces, drawing in AI Course.
 
-![Alt text](demo-image.img?raw=true "Title")
+![Alt text](demo-image.png?raw=true "Title")
 
 ## Install
 
