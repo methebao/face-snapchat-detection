@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" type="text/css" href="../static/styles.css" />
+  </head>
+  <body>
+    <div class="jumbotron">
+      <header>
+        <div class="container">
+          <div class="title-section">
+            <h1>Face_SnapChat App</h1>
+            <h2>AI Project</h2>
+          </div>
+        </div>
+      </header>
+      <main>
+        <div class="row">
+          <div class="col-lg-6 col md-6 col-sm-12">
+              <div class="container">
+                  <h2 class="h2">
+                    Filters: </br>
+                    <small class="text-muted"
+                      >Select your favorite filter and enjoy 🔥</small
+                    >
+                  </h2>
+        
+                  <div class="draw-buttons-section" id="drawButtons">
+                    <a href="/video_feed/draw-cat" class="btn btn-info draw-links"
+                      >Draw Cat 😽</a
+                    >
+                    <a href="/video_feed/draw-glass" class="btn btn-info draw-links"
+                      >Draw Glass 😎</a
+                    >
+                  </div>
+                
+                  <div class="checkbox">
+                    <input id="isRecording" type="checkbox" />
+                    <label for="isRecording" class="record-text">Record mode </label>
+                  </div>
+                </div>
+                
+          </div>
+          <div class="col-lg-6 col md-6 col-sm-12">
+            <div class="demo-image">
+                <h3 class="image-title">
+                  Demo 
+                </h3>
+                <img src="../static/demo.jpg" alt="demo image" class="img-fluid ">
+
+            </div>
+          </div>
+        </div>
+        
+      </main>
+      
+    </div>
+    <footer>
+        An assignment about face detection of AI course.
+      </footer>
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+      crossorigin="anonymous"
+    ></script>
+    <script src="../static/main.js"></script>
+  </body>
+</html>

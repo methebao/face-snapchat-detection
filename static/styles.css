@@ -1,0 +1,68 @@
+.img-frame {
+  width: 100%;
+}
+.video-frame-image {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+}
+body {
+  background-color: #e9ecef;
+  padding-bottom: 140px;
+}
+header {
+  background-color: #17a2b8;
+  padding: 20px;
+  margin-bottom: 50px;
+  border-radius: 20px;
+  text-align: center;
+  color: whitesmoke;
+  text-transform: uppercase;
+}
+.checkbox {
+  display: inline-block;
+  margin-top: 15px;
+  text-align: center;
+  background-color: #b6b7b8;
+  padding: 4px 10px;
+  border-radius: 5px;
+}
+.record-text {
+  color: rgb(37, 37, 37);
+  font-weight: 500;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.demo-image {
+  border: 6px solid #8adbe7;
+  position: relative;
+}
+.image-title {
+  height: 50px;
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  z-index: 1;
+  background: #8adbe7;
+  padding: 10px;
+  border-radius: 5px;
+  color: darkslategray;
+}
+.jumbotron {
+  margin-bottom: 0 !important;
+}
+footer {
+  background-color: darkgray;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  height: 130px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #1f626d;
+  font-style: italic;
+  font-size: 14px;
+  font-weight: 400;
+}
