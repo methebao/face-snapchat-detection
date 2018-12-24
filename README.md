@@ -25,12 +25,12 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## Authors
 
 - \*\*The Bao - [methebao](https://github.com/methebao)
-- \*\*Bui Lam Quang Ngoc - [methebao](https://github.com/methebao)
-- \*\*Duong Duc Hung - [methebao](https://github.com/methebao)
-- \*\*Le Van Viet Hung - [methebao](https://github.com/methebao)
-- \*\*Nguyen Phuoc Hong Hai - [methebao](https://github.com/methebao)
-- \*\*Ho Huynh Minh Hieu - [methebao](https://github.com/methebao)
-- \*\*Nguyen Hoang - [methebao](https://github.com/methebao)
+- \*\*Bui Lam Quang Ngoc
+- \*\*Duong Duc Hung
+- \*\*Le Van Viet Hung
+- \*\*Nguyen Phuoc Hong Hai
+- \*\*Ho Huynh Minh Hieu
+- \*\*Nguyen Hoang
 
 ## License
 
